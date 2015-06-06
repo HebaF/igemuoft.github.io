@@ -21,7 +21,15 @@ The parser is written with one command line input that specifies the path to dir
 
 
 
-## Species Reseach Focus
+## Species Research Focus
+
+This week, the Species Research group helped confirm and correct the Python group’s choices of model species on the iGEM Species Spreadsheet. Group members confirmed that all species chosen were freshwater microorganisms, and chose the best-studied naturally existing strain for each (i.e., lab/reference strains were excluded). If species were found to be inappropriate, team members searched the literature for more suitable species and strains in the same taxonomic class. In addition, group members updated the spreadsheet with links to FASTA files containing the genetic code for each strain chosen. 
+
+Why do all species chosen need to survive in freshwater? Why are lab strains excluded?
+
+The Athabasca River was targeted for bioremediation due to the fact that it has been heavily polluted by the Athabasca Oil Sands. By ensuring that all species chosen are capable of living in the Athabasca River, (which is a freshwater river), and by ensuring that the strains chosen exist naturally, outside of the lab environment, we will be able to use the genetic information gathered to model metabolic activity in the Athabasca River microbiome. Perhaps we can even optimize the metabolic network for specific bioremediation efforts!
+
+
 
 ## MEAN Focus
 
